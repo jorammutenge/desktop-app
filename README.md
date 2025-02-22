@@ -43,6 +43,8 @@ Run the following command in the terminal to generate a desktop app, allowing yo
 `pyinstaller --noconfirm --windowed --name "ActressApp" --add-data "actress_images;actress_images" --add-data "actresses.db;." app.py`
 and open the `.exe` file.
 
+You can also watch the [YouTube video](https://www.youtube.com/watch?v=bjUGBxBgWKY) where I explain the entire process.
+
 ## Future work  
 1. Display actress ages.  
 1. Connect to IMDb to distinguish watched vs. unwatched movies.  
